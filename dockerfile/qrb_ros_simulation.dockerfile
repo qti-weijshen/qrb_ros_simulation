@@ -1,4 +1,4 @@
-FROM ros:jazzy-ros-base-noble
+FROM ros:jazzy-ros-base
 
 LABEL maintainer="Weijie Shen <weijshen@qti.qualcomm.com>"
 LABEL description="this docker file is for running QRB ROS Simulation on host."
